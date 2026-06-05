@@ -45,16 +45,35 @@
 <h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">GitHub Signals</h2>
 
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelinavipu&hide_border=true&background=050814&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&currStreakLabel=F0F4F8&sideNums=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0" height="165" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kelinavipu&hide_border=true&background=050814&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&currStreakLabel=F0F4F8&sideNums=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0" height="165" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kelinavipu&show_icons=true&hide_border=true&bg_color=050814&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub Stats"/>
 </p>
 
 <br>
 
 <h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">Active Missions</h2>
 
-<p align="center" style="opacity:0.8; color: #E2E8F0; font-weight: 300;">
-  <i>Under construction. Systems in progress...</i>
+<h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">Artifacts</h2>
+
+<p align="center">
+
+| | Project | Stack | About |
+|---|---|---|---|
+| 🟣 | **ArogyaMaa AI** | Python · LangGraph · Bhashini | Voice-enabled maternal healthcare AI, built at a hackathon |
+| 🔵 | **RAG Helpline Model** | Flask · LangChain · FAISS | Finds the right Indian helpline via natural language |
+| 🟢 | **Luminance** | Flutter · Kotlin · Groq API | Android screen addiction analyser and blocker |
+
+</p>
+<br>
+
+<h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">Active Missions</h2>
+
+<p align="center" style="color: #E2E8F0; font-weight: 300; font-size: 13px; line-height: 2;">
+  ◉ &nbsp; Navigating LangGraph deeper &nbsp;·&nbsp; <i style="opacity:0.5; font-size:11px;">multi-agent orchestration · stateful workflows</i><br>
+  ◉ &nbsp; Optimizing RAG pipelines &nbsp;·&nbsp; <i style="opacity:0.5; font-size:11px;">chunking · reranking · hybrid search</i><br>
+  ◉ &nbsp; Exploring Deep Learning &nbsp;·&nbsp; <i style="opacity:0.5; font-size:11px;">CNNs · transformers · attention</i><br>
+  ◉ &nbsp; Going deeper into Flutter &nbsp;·&nbsp; <i style="opacity:0.5; font-size:11px;">state management · native integrations</i>
 </p>
 
 <br>
