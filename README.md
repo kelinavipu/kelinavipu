@@ -67,3 +67,13 @@
   <br>
   <img src="https://counter.kuber.studio/kelinavipu/light/count.svg" alt="Profile views" />
 </div>
+<h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">Reach My Orbit</h2>
+<p align="center">
+  <a href="https://in.linkedin.com/in/kelinavipuvalan">
+    <img src="https://img.shields.io/badge/✦_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050814" />
+  </a>
+  &nbsp;
+  <a href="mailto:kelinavipu11@gmail.com">
+    <img src="https://img.shields.io/badge/✦_email-E2E8F0?style=for-the-badge&logo=gmail&logoColor=050814&labelColor=050814" />
+  </a>
+</p>
