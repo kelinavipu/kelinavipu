@@ -31,13 +31,13 @@
 
 <p align="center">
   <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,flutter,android,tensorflow&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,flutter,anaconda,tensorflow&theme=dark" alt="Languages and Frameworks" />
   <br><br>
   <!-- Cloud, DB, & Tools -->
   <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,git,github,vscode&theme=dark" alt="Cloud and Tools" />
   <br><br>
   <!-- Data Science / ML specific icons -->
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark" alt="Data Science Icons" />
+  <img src="ds_icons.svg" alt="Data Science Icons" />
 </p>
 
 <br>
