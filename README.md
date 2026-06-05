@@ -52,19 +52,18 @@
 
 <br>
 
-<h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">Active Missions</h2>
 
 <h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">Artifacts</h2>
 
-<p align="center">
+<div align="center">
 
-| | Project | Stack | About |
-|---|---|---|---|
-| 🟣 | **ArogyaMaa AI** | Python · LangGraph · Bhashini | Voice-enabled maternal healthcare AI, built at a hackathon |
-| 🔵 | **RAG Helpline Model** | Flask · LangChain · FAISS | Finds the right Indian helpline via natural language |
-| 🟢 | **Luminance** | Flutter · Kotlin · Groq API | Android screen addiction analyser and blocker |
+| Project | Stack | About |
+|:---|:---|:---|
+| 🔵 &nbsp; **RAG Helpline Model** | `Flask` `LangChain` `FAISS` | Finds the right Indian helpline via natural language |
+| 🟣 &nbsp; **ArogyaMaa AI** | `Python` `LangGraph` `Bhashini` | Voice-enabled maternal healthcare AI, built at a hackathon |
+| 🟢 &nbsp; **Luminance** | `Flutter` `Kotlin` `Groq API` | Android screen addiction analyser and blocker |
 
-</p>
+</div>
 <br>
 
 <h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">Active Missions</h2>
