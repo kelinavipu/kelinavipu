@@ -42,7 +42,7 @@
 
 <br>
 
-<h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">GitHub Signals</h2>
+<h2 align="center" style="font-weight: 300; color: #F0F4F8; letter-spacing: 1.5px;">GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kelinavipu&hide_border=true&background=050814&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&currStreakLabel=F0F4F8&sideNums=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0" height="165" alt="GitHub Streak"/>
